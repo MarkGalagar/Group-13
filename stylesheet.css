@@ -73,7 +73,12 @@
 .about .image {
     height: 300px;
     background-position: center;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+.about .image:hover {
+    background-size: 120%;
+    transition: 0.3s;
 }
 .qrcode {
     position: fixed;
