@@ -5,33 +5,28 @@
     position: fixed;
 }
 
-.colon_container .carousel-inner{
-        width: 500px;
-        margin-top: 2%;
-        margin-left: 5%;
-    }
-
-    .colon_container  .carousel-item img{
-        height: 450px;
-        padding: 10px;
+.colon_market {
+    margin: 40px;
+    width: 400px;
+    height: 300px;
 }
-
-.carbon_container .carousel-inner{
-    width: 500px;
-    margin-top: 2%;
-   
-    
+.carbon_market {
+    margin: 40px;
+    width: 400px;
+    height: 300px;
 }
-    .carbon_container .carousel-item img{
-        height: 450px;
-        
-       
-    }
-
-
-
-
-    /* Features*/
+.night_market_container {
+    text-align: center;
+    margin: 50px;
+}
+.night_market_link {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.night_market_link img {
+    height: 200px;
+}
 
                 /* COLON */
 .title1{
@@ -44,9 +39,6 @@
     margin-left: 25px;
     
 }
-    *{
-       box-sizing: border-box;
-    }
 
 .glass{
     width: 30%;
@@ -82,8 +74,23 @@
         border-radius: 25px;
     } */
 
-
-
+.description {
+    margin: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+/*-------ABOUT--------*/
+.about h1 {
+    text-align: center;
+}
+.about .card {
+    margin: 40px;
+}
+.about .profiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 
 
