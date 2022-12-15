@@ -1,1 +1,6 @@
-# veloso-group-13
+Group-13
+
+Galagar
+Veloso
+Ortega
+Enriquez
