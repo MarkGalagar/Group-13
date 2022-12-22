@@ -1,0 +1,101 @@
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.carousel-inner{
+    margin: 0%;
+    position: fixed;
+}
+
+.colon_market {
+    margin: 40px;
+    width: 400px;
+    height: 300px;
+}
+.carbon_market {
+    margin: 40px;
+    width: 400px;
+    height: 300px;
+}
+.night_market_container {
+    text-align: center;
+    margin: 50px;
+    color: silver;
+}
+.night_market_link {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.night_market_link img {
+    height: 200px;
+}
+
+.description {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.description .title{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-left: 25px;
+}
+
+.description .text {
+    margin: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.glass{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.glass img{
+    height: 350px;
+    border-radius: 25px;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+/*-------ABOUT--------*/
+.about h1 {
+    text-align: center;
+    color: silver;
+}
+.about .card {
+    margin: 40px;
+}
+.about .profiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.about .image {
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+.about .image:hover {
+    background-size: 120%;
+    transition: 0.3s;
+}
+.qrcode {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 150px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
