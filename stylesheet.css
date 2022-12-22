@@ -65,6 +65,7 @@
 .about h1 {
     text-align: center;
     color: silver;
+    margin-top: 3%;
 }
 .about .card {
     margin: 40px;
